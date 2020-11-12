@@ -1,4 +1,13 @@
 # MNIST Classifiers
+ 
+## Overview
+
+* **Year:** 2020
+* **Technologies:** Python, NumPy, Matplotlib, TensorFlow, Keras
+* **Discipline(s):** Computer Vision, Deep Learning
+* **Keywords:** `CNN`, `Classification`, `Computer Vision`, `Convolution`, `Convolutional Neural Network`, `Deep Learning`, `Fully-Connected`,  `MNIST`, `Max-Pooling`, `Multi-Class Classification`, `Neural Network`, `2-D Convolution`, `2-D Max-Pooling`
+
+## Description
 
 This repository contains a collection of MNIST digit and fashion item classifiers built with fully-connected and convolutional neural networks (CNNs) using TensorFlow and Keras.
 
